@@ -57,7 +57,7 @@ The solution supports SDG 8 by improving employment readiness, skill alignment, 
 ---
 
 ## Live Demo
-Deployment link will be added after implementation.
+https://ai-resume-job-assistant-w8xkgpb2t8ckewfuhsrvk7.streamlit.app/
 
 ---
 
